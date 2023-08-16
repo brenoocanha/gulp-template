@@ -18,7 +18,7 @@ Este repositório contém um template GULP para automatização de tarefas em pr
 3. Abra o terminal e navegue até o diretório do projeto.
 4. Execute o seguinte comando para instalar as dependências:
 
-yarn add
+yarn
 
 5. Após a instalação das dependências, digite o seguinte comando para iniciar o GULP:
 
