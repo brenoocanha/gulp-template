@@ -20,10 +20,8 @@ Este repositório contém um template GULP para automatização de tarefas em pr
 
 yarn add
 
-css
-
 5. Após a instalação das dependências, digite o seguinte comando para iniciar o GULP:
 
 gulp
 
-Isso iniciará o processo de automatização de tarefas. O GULP irá concatenar, minificar e realizar outras tarefas configuradas conforme necessário.
+Isso iniciará o processo de automatização de tarefas. O GULP irá concatenar, minificar e realizar outras tarefas configuradas conforme &nbsp;&nbsp;&nbsp;&nbsp;necessário.
